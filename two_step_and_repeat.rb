@@ -33,6 +33,7 @@ def how_many_steps?
 steps += 1
 
 steps % 2 = 0 Left
+sleep(0.5)
  
 
 end
