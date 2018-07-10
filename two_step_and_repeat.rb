@@ -43,7 +43,7 @@ While steps <11
 	sleep(0.5)
 end
 end
-how_many_stpes?
+how_many_steps?
 
 def break_dance
   # Write a solution that uses the same code as how_many_steps?, but breaks the
