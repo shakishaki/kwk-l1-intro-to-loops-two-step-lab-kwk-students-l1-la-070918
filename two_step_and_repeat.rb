@@ -37,8 +37,8 @@ sleep(0.5)
  
 def how_many_steps?
   steps= 0
-While steps <11
-	Puts steps
+while steps < 11
+	puts steps
 	steps = steps + 1
 	sleep(0.5)
 end
