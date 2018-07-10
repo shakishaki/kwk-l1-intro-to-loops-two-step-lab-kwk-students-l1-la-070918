@@ -35,8 +35,14 @@ steps += 1
 #steps % 2  0 Left
 sleep(0.5)
  
-
+def how_many_steps?
+While steps <11
+	Puts steps
+	steps = steps + 1
+	sleep(0.5)
 end
+end
+how_many_stpes?
 
 def break_dance
   # Write a solution that uses the same code as how_many_steps?, but breaks the
