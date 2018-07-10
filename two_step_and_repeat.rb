@@ -43,4 +43,5 @@ while steps < 11
 	sleep(0.5)
 end
 end
+
 how_many_steps?
